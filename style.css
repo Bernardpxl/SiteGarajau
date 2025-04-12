@@ -1,0 +1,182 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-color: #555555;
+  }
+  
+  table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  
+  .header .logo {
+    font-weight: bold;
+    font-size: 18px;
+    padding: 10px;
+  }
+  .header span {
+    color: #555555;
+  }
+  .header .icons {
+    text-align: right;
+    padding-right: 10px;
+  }
+  .menu td {
+    background: #555555;
+    text-align: center;
+    padding: 10px;
+    cursor: pointer;
+  }
+  
+  
+  .main td {
+    height: 300px;
+  }
+  .main .left {
+    background: #4f4f4f;
+    color: white;
+    text-align: center;
+    font-size: 24px;
+    padding: 20px;
+  }
+  .main .left b {
+    color: teal;
+  }
+  .main .left span {
+    display: block;
+    margin-top: 10px;
+    font-size: 20px;
+    color: white;
+  }
+  .main .right {
+    background: teal;
+  }
+  
+ 
+  .footer {
+    background: #555555;
+    color: white;
+    font-size: 12px;
+    padding: 10px;
+  }
+  .footer .logo-footer {
+    font-weight: bold;
+  }
+  .footer span {
+    color: teal;
+  }
+  .footer .endereco {
+    text-align: right;
+  }
+  .footer img {
+    margin-right: 5px;
+  }
+  .menu a {
+    text-decoration: none;
+    color: black;
+    display: block;
+    padding: 10px;
+  }
+  .menu a:hover {
+    background-color: #ddd;
+  }
+  
+  .main-sobre td {
+    vertical-align: top;
+  }
+  
+  .left-imgs {
+    background: #444;
+    width: 40%;
+    padding: 20px;
+  }
+  
+  .left-imgs img {
+    border-radius: 5px;
+  }
+  
+  .right-text {
+    background: teal;
+    color: white;
+    padding: 20px;
+    font-size: 16px;
+  }
+  
+  .right-text h2 {
+    margin-top: 0;
+  }
+  .contato {
+    width: 100%;
+    background: linear-gradient(to right, #555 50%, teal 50%);
+    padding: 40px 0;
+    color: white;
+  }
+  
+  .form-container {
+    text-align: center;
+    font-family: cursive;
+  }
+  
+  .form-container h2 {
+    font-size: 28px;
+    margin-bottom: 20px;
+  }
+  
+  form {
+    width: 300px;
+    margin: auto;
+  }
+  
+  form label {
+    display: block;
+    margin-top: 15px;
+    text-align: left;
+  }
+  
+  form input, form textarea {
+    width: 100%;
+    padding: 10px;
+    margin-top: 5px;
+    border: none;
+    border-radius: 3px;
+    background-color: #eee;
+    color: #333;
+  }
+  
+  form button {
+    margin-top: 20px;
+    width: 100%;
+    padding: 10px;
+    background-color: #333;
+    color: white;
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+  }
+  .corpo {
+    width: 100%;
+    background: linear-gradient(to right, #555 50%, teal 50%);
+    padding: 30px 0;
+    color: white;
+  }
+  
+  .texto {
+    width: 50%;
+    padding: 20px;
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+    line-height: 1.6;
+  }
+  .imagens {
+    width: 50%;
+    text-align: center;
+    padding: 20px;
+  }
+  .corpo {
+    width: 100%;
+    background: linear-gradient(to right, #555 50%, teal 50%);
+    padding: 30px 0;
+    color: white;
+  }
+
